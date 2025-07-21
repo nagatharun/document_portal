@@ -29,4 +29,4 @@ git commit -m "<write your commit message>"
 git push
 
 # Cloning the repository
-git clone https://github.com/{github name}/{github project name}.git
+git clone https://github.com/{github_name}/{github_project_name}.git

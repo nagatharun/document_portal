@@ -7,8 +7,10 @@ cd <project_folder_name>
 # Open the folder in VS Code
 code .
 
+
 # Create a new Conda environment with Python 3.10
 conda create -p <env_name> python=3.10 -y
+
 
 # Activate the environment (use full path to the environment)
 conda activate <path_of_the_env>

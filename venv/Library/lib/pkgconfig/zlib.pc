@@ -1,0 +1,13 @@
+prefix=D:/LLMOPS/document_portal/venv/Library
+exec_prefix=D:/LLMOPS/document_portal/venv/Library
+libdir=D:/LLMOPS/document_portal/venv/Library/lib
+sharedlibdir=D:/LLMOPS/document_portal/venv/Library/lib
+includedir=D:/LLMOPS/document_portal/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -7,4 +7,9 @@ pypdf
 faiss-cpu
 langchain_google_genai
 -e .
+sentence-transformers
+langchain_huggingface
+structlog
+PyMuPDF
+
 
